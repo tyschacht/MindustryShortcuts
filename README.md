@@ -55,6 +55,6 @@ CategoryStepY := 80
 ;############## 
 ```
 
-In the example above, the 4K section is enabled, and the 1920x108 section is disabled.    To enable the 1920x1080, remove the semicolon comments, and then add semicolons before the entries in the 4K config.
+In the example above, the 4K section is enabled, and the 1920x1080 section is disabled.    To enable the 1920x1080, remove the semicolon comments, and then add semicolons before the entries in the 4K config.
 
 
