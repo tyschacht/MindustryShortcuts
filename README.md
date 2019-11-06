@@ -49,6 +49,8 @@ Hotkey items are set in the Mindustry.ahk file in the SHORTCUT CONFIG section by
 ;############## 
 ```
 
+Using the naming convention above, you can see that the '1' key is assigned to 'Base Conveyor' and the '2' key is assigned to 'Router'
+
 ### Out of the box this script supports two resolution scenarios
 * 1920x1080 @ 100% UI scaling
 * 4K resolution (4096 x 2160) @ 125% UI scaling
