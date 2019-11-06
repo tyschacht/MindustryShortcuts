@@ -24,6 +24,8 @@ Hotkey items are set in the Mindustry.ahk file in the SHORTCUT CONFIG section by
 * 1920x1080 @ 100% UI scaling
 * 4K resolution (4096 x 2160) @ 125% UI scaling
 
+The script relies on the fact that it knows your resolution and can automatically move the mouse to the appropriate positions.   If your resoulution is not configured correctly, it will not work.
+
 You can switch between these two options by uncommenting/commenting the relavent section in the script.
 
 ```
