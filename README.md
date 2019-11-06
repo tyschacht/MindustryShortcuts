@@ -8,10 +8,10 @@ This solution is not perfect.  There are minor issues that may cause you to pres
 
 
 ## Controls
-* <TAB>    -  Go BACK an item category
+* |TAB|    -  Go BACK an item category
 * Q        -  Go FORWARD an item category
-* <SPACE>  -  Go FORWARD an item
-* <SHIFT+SPACE>  - Go BACK an item
+* |SPACE|  -  Go FORWARD an item
+* |SHIFT+SPACE|  - Go BACK an item
 
 ## Hotkeys
 * 1 thru 8
