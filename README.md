@@ -19,6 +19,35 @@ This solution is not perfect.  There are minor issues that may cause you to pres
 
 Hotkey items are set in the Mindustry.ahk file in the SHORTCUT CONFIG section by defining the category number and the item number.   The first item in each category/section is zero.   As you unlock new items, previous shortcutted items MAY MOVE AROUND.   This means you may need to re-edit this file to point to the new location.
 
+```
+;##############
+;#BEGIN SHORTCUT CONFIG
+;##############
+
+; base conveyor
+1Category := 2
+1Item     := 0
+
+; router
+2Category := 2
+2Item     := 6
+
+; standard drill
+3Category := 1
+3Item     := 0
+
+; basic turret
+4Category := 0
+4Item     := 0
+
+; copper wall
+5Category := 5
+5Item     := 0
+
+;##############
+;#END SHORTCUT CONFIG
+;############## 
+```
 
 ### Out of the box this script supports two resolution scenarios
 * 1920x1080 @ 100% UI scaling
