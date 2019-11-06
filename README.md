@@ -91,3 +91,13 @@ CategoryStepY := 80
 In the example above, the 4K section is enabled, and the 1920x1080 section is disabled.    To enable the 1920x1080, remove the semicolon comments in the 1920x1080 section, and then add semicolons before the entries in the 4K config.
 
 
+### How do I use it?
+
+To use the AutoHotkey script, you must first install AutoHotkey from https://www.autohotkey.com/   (click the 'download' button and go through the install).    Then, download the Mindustry.ahk file.    Once the Mindustry.ahk file is in your local filesystem, double click that file to launch it.   At that point, you should be able to play Mindustry and utilize the shortcuts as configured.
+
+
+
+### Caveats
+
+I am not an AutoHotkey expert.  There are probably better ways to do what I did in AHK.    If there are, add issues, fork the repo, help out, etc.   I simply love this game and realized I was clicking the item bar WAY more than I needed to.   
+
